@@ -1,16 +1,14 @@
 
-# 🚀 Project Title: [Your Hardware Project Name]
+# ❤️ Heart Rate Monitoring using PPG
 
 ## 📌 Problem Statement
-Write 2–3 lines about the real-world issue your project solves.  
-Example:  
-> Efficient traffic management is a growing challenge in urban areas. This project addresses the problem by designing a bidirectional people counter using sensors and microcontrollers.
+Cardiovascular diseases are one of the leading causes of death worldwide, and continuous monitoring of heart rate is crucial for early detection of abnormalities. Traditional heart rate measurement methods are often bulky, expensive, or inconvenient for everyday use. There is a need for a simple, low-cost, and non-invasive technique to monitor heart rate in real time.
 
 ---
 
 ## 📖 Project Description
-This project is a hardware-based system developed using electronic components such as sensors, microcontrollers, and actuators. It is designed to [briefly describe what it does]. The system works by detecting input from the environment through sensors, processing the data using a controller, and providing the required output.  
+This project implements a heart rate monitoring system using the Photoplethysmography (PPG) technique. PPG is an optical method that measures blood volume changes in the microvascular bed of tissue using a light source and a photodetector.  
 
-The project demonstrates practical applications of electronics in solving real-life problems and can be extended for larger-scale implementations.  
+The hardware consists of a PPG sensor module, a microcontroller, and a display unit. The sensor detects variations in light absorption corresponding to the heartbeat, and the microcontroller processes the signal to calculate the heart rate in beats per minute (BPM). The processed data can be displayed on an LCD screen or transmitted for further analysis.  
 
-
+This system provides a portable, low-cost, and reliable way to measure heart rate, making it useful for personal healthcare, fitness tracking, and medical monitoring applications.  
